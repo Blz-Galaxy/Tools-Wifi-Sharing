@@ -1,0 +1,9 @@
+D:\Workspace\KillSX\KillSX\bin\Debug\KillSX.exe
+D:\Workspace\KillSX\KillSX\bin\Debug\KillSX.pdb
+D:\Workspace\KillSX\KillSX\obj\x86\Debug\Interop.NATUPNPLib.dll
+D:\Workspace\KillSX\KillSX\obj\x86\Debug\Interop.NETCONLib.dll
+D:\Workspace\KillSX\KillSX\obj\x86\Debug\KillSX.csproj.ResolveComReference.cache
+D:\Workspace\KillSX\KillSX\obj\x86\Debug\KillSX.MainFm.resources
+D:\Workspace\KillSX\KillSX\obj\x86\Debug\KillSX.csproj.GenerateResource.Cache
+D:\Workspace\KillSX\KillSX\obj\x86\Debug\KillSX.exe
+D:\Workspace\KillSX\KillSX\obj\x86\Debug\KillSX.pdb
